@@ -1,3 +1,3 @@
 require('babel-register');
-require('bebel-polyfill');
+require('babel-polyfill');
 require('./server');
